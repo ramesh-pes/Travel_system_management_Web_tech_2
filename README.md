@@ -15,3 +15,7 @@ for inteligent system i created Budget Application in  service page, where you c
 
 user    :  admin
 password :   admin
+
+
+
+use Adminpics and advertisimages  and subcategoryimages and categoriy images in Admin folder to add them to DataBase
